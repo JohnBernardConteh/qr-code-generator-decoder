@@ -6,7 +6,7 @@ An app for generating QR codes from text or URLs and decoding QR codes from uplo
 
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jbc-qr-code-generator-decoder-app.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://jbc-qr-code-generator-decoder.streamlit.app/)
 
 
 
